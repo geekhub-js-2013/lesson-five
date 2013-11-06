@@ -42,3 +42,6 @@ removeEventListener
 
 ### DOMContentLoaded
 
+document.addEventListener('DOMContentLoaded', function() {
+
+});
